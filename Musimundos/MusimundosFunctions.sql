@@ -83,6 +83,6 @@ SELECT
 FROM
   facturas
 WHERE
-  id_cliente = 1
+  id_cliente = 2
 ORDER BY
   fecha_factura DESC;
